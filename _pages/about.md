@@ -16,16 +16,16 @@ redirect_from:
     and developing interpretability methods for biomarker discovery.
   </p>
   <p>
+    I previously studied at <a href="https://www.ensae.fr/en">ENSAE Paris</a> and completed the
+    <a href="https://www.master-mva.com/">Master MVA</a> (Mathematics, Vision and Learning)
+    at <a href="https://ens-paris-saclay.fr/en">École Normale Supérieure Paris-Saclay</a>.
+  </p>
+  <p>
     I hold a PhD in Machine Learning and Statistics from
     <a href="https://team.inria.fr/parietal/">INRIA Parietal</a>, advised by
     <a href="https://pages.saclay.inria.fr/bertrand.thirion/">Bertrand Thirion</a> and
     <a href="https://www.math.univ-toulouse.fr/~pneuvial/">Pierre Neuvial</a>.
     I am interested in interpretability and foundation models for healthcare data (clinical and biological).
-  </p>
-  <p>
-    I previously studied at <a href="https://www.ensae.fr/en">ENSAE Paris</a> and completed the
-    <a href="https://www.master-mva.com/">Master MVA</a> (Mathematics, Vision and Learning)
-    at <a href="https://ens-paris-saclay.fr/en">École Normale Supérieure Paris-Saclay</a>.
   </p>
 </div>
 
@@ -47,7 +47,7 @@ redirect_from:
   <li class="update-item">
     <span class="update-date">Jan 2025</span>
     <span class="update-dot"></span>
-    <span class="update-text">Excited to join <strong>SurgeCare</strong> as Research Scientist — working on foundation models for single-cell cytometry data!</span>
+    <span class="update-text">Excited to join <strong>SurgeCare</strong> as Research Scientist. I will be working on foundation models for single-cell cytometry data!</span>
   </li>
   <li class="update-item">
     <span class="update-date">Dec 2024</span>
