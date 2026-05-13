@@ -25,7 +25,7 @@ redirect_from:
     <a href="https://team.inria.fr/parietal/">INRIA Parietal</a>, advised by
     <a href="https://pages.saclay.inria.fr/bertrand.thirion/">Bertrand Thirion</a> and
     <a href="https://www.math.univ-toulouse.fr/~pneuvial/">Pierre Neuvial</a>.
-    I am interested in interpretability and foundation models for healthcare data (clinical and biological).
+    I am interested in interpretability and foundation models across all modalities.
   </p>
 </div>
 
