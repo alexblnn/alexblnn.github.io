@@ -12,8 +12,8 @@ redirect_from:
   <p>
     I am a Research Scientist at <a href="https://www.surge.care">SurgeCare</a>, a spinoff from
     <a href="https://gaudillierelab.stanford.edu">Brice Gaudillière's lab</a> at Stanford University.
-    I build <strong>ImmuneMind</strong> — a foundation model for cytometry data trained on 1 billion single cells —
-    and develop interpretability methods for biomarker discovery.
+    I'm working on building <strong>ImmuneMind</strong>, a foundation model trained on billions of single cells,
+    and developing interpretability methods for biomarker discovery.
   </p>
   <p>
     I hold a PhD in Machine Learning and Statistics from
@@ -35,6 +35,11 @@ redirect_from:
 
 <ul class="update-list">
   <li class="update-item">
+    <span class="update-date">Feb 2026</span>
+    <span class="update-dot"></span>
+    <span class="update-text">🎉 <a href="https://www.entreprises.gouv.fr/la-dge/actualites/appel-projets-pionniers-de-lia-les-23-premiers-laureats-connus">ImmuneMind awarded the AI Trailblazer Grant</a> as part of the France 2030 plan!</span>
+  </li>
+  <li class="update-item">
     <span class="update-date">May 2025</span>
     <span class="update-dot"></span>
     <span class="update-text">Paper accepted at <strong>ICML 2025</strong> — <em>False Coverage Proportion control for Conformal Prediction</em>.</span>
@@ -42,17 +47,17 @@ redirect_from:
   <li class="update-item">
     <span class="update-date">Jan 2025</span>
     <span class="update-dot"></span>
-    <span class="update-text">Joined <strong>SurgeCare</strong> as Research Scientist. Building foundation models for single-cell cytometry data.</span>
+    <span class="update-text">Excited to join <strong>SurgeCare</strong> as Research Scientist — working on foundation models for single-cell cytometry data!</span>
   </li>
   <li class="update-item">
     <span class="update-date">Dec 2024</span>
     <span class="update-dot"></span>
-    <span class="update-text">Successfully defended my PhD in Machine Learning and Statistics at INRIA.</span>
+    <span class="update-text">Successfully defended my <a href="https://theses.hal.science/tel-04935172">PhD thesis</a> in Machine Learning and Statistics at INRIA.</span>
   </li>
   <li class="update-item">
     <span class="update-date">Dec 2023</span>
     <span class="update-dot"></span>
-    <span class="update-text">Presented <em>False Discovery Proportion control for aggregated Knockoffs</em> at <strong>NeurIPS 2023</strong>, New Orleans.</span>
+    <span class="update-text">Paper accepted at <strong>NeurIPS 2023</strong> — <em>False Discovery Proportion control for aggregated Knockoffs</em>.</span>
   </li>
 </ul>
 
@@ -92,6 +97,18 @@ redirect_from:
   <div class="pub-links">
     <a href="https://doi.org/10.1016/j.neuroimage.2022.119492">Full text</a> &middot;
     <a href="https://github.com/alexblnn/Notip">Code</a>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-title">
+    When Knockoffs fail: diagnosing and fixing non-exchangeability of Knockoffs
+    <span class="venue-badge venue-preprint">Preprint</span>
+  </div>
+  <div class="pub-authors">A. Blain, A. Reyero Lobo, J. Linhart, B. Thirion, P. Neuvial</div>
+  <div class="pub-desc">A diagnostic tool based on Classifier Two-Sample Tests that detects violations of the knockoff exchangeability assumption — which cause massive false positive inflation — and an alternative construction that restores error control.</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2407.06892">arXiv</a>
   </div>
 </div>
 
