@@ -2,6 +2,14 @@
    Custom styles — Alexandre Blain
    ========================================================================== */
 
+/* Fix avatar: force square crop so circle doesn't become oval */
+.author__avatar img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: center top;
+}
+
 /* Intro block */
 .intro-block {
   font-size: 1.05em;

@@ -10,18 +10,22 @@ redirect_from:
 
 <div class="intro-block">
   <p>
-    I am a Research Scientist at <a href="https://www.surgecare.ai">SurgeCare</a>, a spinoff from
-    <a href="https://med.stanford.edu/gaudilliere-lab.html">Brice Gaudillière's lab</a> at Stanford University.
+    I am a Research Scientist at <a href="https://www.surge.care">SurgeCare</a>, a spinoff from
+    <a href="https://gaudillierelab.stanford.edu">Brice Gaudillière's lab</a> at Stanford University.
     I build <strong>ImmuneMind</strong> — a foundation model for cytometry data trained on 1 billion single cells —
     and develop interpretability methods for biomarker discovery.
   </p>
   <p>
-    I hold a PhD in Interpretable Machine Learning and Statistics from
+    I hold a PhD in Machine Learning and Statistics from
     <a href="https://team.inria.fr/parietal/">INRIA Parietal</a>, advised by
     <a href="https://pages.saclay.inria.fr/bertrand.thirion/">Bertrand Thirion</a> and
     <a href="https://www.math.univ-toulouse.fr/~pneuvial/">Pierre Neuvial</a>.
-    My research focuses on distribution-free, model-agnostic methods for interpretability and
-    uncertainty quantification.
+    I am interested in interpretability and foundation models for healthcare data (clinical and biological).
+  </p>
+  <p>
+    I previously studied at <a href="https://www.ensae.fr/en">ENSAE Paris</a> and completed the
+    <a href="https://www.master-mva.com/">Master MVA</a> (Mathematics, Vision and Learning)
+    at <a href="https://ens-paris-saclay.fr/en">École Normale Supérieure Paris-Saclay</a>.
   </p>
 </div>
 
@@ -43,7 +47,7 @@ redirect_from:
   <li class="update-item">
     <span class="update-date">Dec 2024</span>
     <span class="update-dot"></span>
-    <span class="update-text">Successfully defended my PhD in Interpretable Machine Learning and Statistics at INRIA.</span>
+    <span class="update-text">Successfully defended my PhD in Machine Learning and Statistics at INRIA.</span>
   </li>
   <li class="update-item">
     <span class="update-date">Dec 2023</span>
