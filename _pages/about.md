@@ -103,6 +103,7 @@ redirect_from:
   <div class="pub-authors">A. Blain, B. Thirion, O. Grisel, P. Neuvial</div>
   <div class="pub-desc">Controls the actual proportion of false discoveries (FDP) — beyond the usual FDR guarantee — for Knockoff-based variable selection in high dimension, with a new aggregation scheme that removes the randomness of classical Knockoff inference. Demonstrated on brain imaging and genomic data.</div>
   <div class="pub-links">
+    <a href="https://neurips.cc/virtual/2023/poster/70300">Paper</a> &middot;
     <a href="https://arxiv.org/abs/2310.10373">arXiv</a> &middot;
     <a href="https://github.com/alexblnn/KOPI">Code</a>
   </div>
