@@ -37,7 +37,7 @@ redirect_from:
   <li class="update-item">
     <span class="update-date">Feb 2026</span>
     <span class="update-dot"></span>
-    <span class="update-text">🎉 <a href="https://www.entreprises.gouv.fr/la-dge/actualites/appel-projets-pionniers-de-lia-les-23-premiers-laureats-connus">ImmuneMind awarded the AI Trailblazer Grant</a> as part of the France 2030 plan!</span>
+    <span class="update-text"><a href="https://www.entreprises.gouv.fr/la-dge/actualites/appel-projets-pionniers-de-lia-les-23-premiers-laureats-connus">ImmuneMind awarded the AI Trailblazer Grant</a> as part of the France 2030 plan!</span>
   </li>
   <li class="update-item">
     <span class="update-date">May 2025</span>
@@ -53,6 +53,11 @@ redirect_from:
     <span class="update-date">Dec 2024</span>
     <span class="update-dot"></span>
     <span class="update-text">Successfully defended my <a href="https://theses.hal.science/tel-04935172">PhD thesis</a> in Machine Learning and Statistics at INRIA.</span>
+  </li>
+  <li class="update-item">
+    <span class="update-date">May 2024</span>
+    <span class="update-dot"></span>
+    <span class="update-text">New preprint — <em>When Knockoffs fail: diagnosing and fixing non-exchangeability of Knockoffs</em>.</span>
   </li>
   <li class="update-item">
     <span class="update-date">Dec 2023</span>
@@ -72,6 +77,22 @@ redirect_from:
   </div>
   <div class="pub-authors">A. Blain, B. Thirion, P. Neuvial</div>
   <div class="pub-desc">Distribution-free uncertainty quantification with improved statistical guarantees, applicable to any black-box model including neural networks.</div>
+  <div class="pub-links">
+    <a href="https://proceedings.mlr.press/v267/blain25a.html">Paper</a> &middot;
+    <a href="https://github.com/alexblnn/CoJER">Code</a>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-title">
+    When Knockoffs fail: diagnosing and fixing non-exchangeability of Knockoffs
+    <span class="venue-badge venue-preprint">Preprint</span>
+  </div>
+  <div class="pub-authors">A. Blain, A. Reyero Lobo, J. Linhart, B. Thirion, P. Neuvial</div>
+  <div class="pub-desc">A diagnostic tool based on Classifier Two-Sample Tests that detects violations of the knockoff exchangeability assumption — which cause massive false positive inflation — and an alternative construction that restores error control.</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2407.06892">arXiv</a>
+  </div>
 </div>
 
 <div class="pub-entry">
@@ -97,18 +118,6 @@ redirect_from:
   <div class="pub-links">
     <a href="https://doi.org/10.1016/j.neuroimage.2022.119492">Full text</a> &middot;
     <a href="https://github.com/alexblnn/Notip">Code</a>
-  </div>
-</div>
-
-<div class="pub-entry">
-  <div class="pub-title">
-    When Knockoffs fail: diagnosing and fixing non-exchangeability of Knockoffs
-    <span class="venue-badge venue-preprint">Preprint</span>
-  </div>
-  <div class="pub-authors">A. Blain, A. Reyero Lobo, J. Linhart, B. Thirion, P. Neuvial</div>
-  <div class="pub-desc">A diagnostic tool based on Classifier Two-Sample Tests that detects violations of the knockoff exchangeability assumption — which cause massive false positive inflation — and an alternative construction that restores error control.</div>
-  <div class="pub-links">
-    <a href="https://arxiv.org/abs/2407.06892">arXiv</a>
   </div>
 </div>
 
