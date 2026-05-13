@@ -42,7 +42,7 @@ redirect_from:
   <li class="update-item">
     <span class="update-date">May 2025</span>
     <span class="update-dot"></span>
-    <span class="update-text">Paper accepted at <strong>ICML 2025</strong> — <em>False Coverage Proportion control for Conformal Prediction</em>.</span>
+    <span class="update-text"><em>False Coverage Proportion control for Conformal Prediction</em> accepted at <strong>ICML 2025</strong>.</span>
   </li>
   <li class="update-item">
     <span class="update-date">Jan 2025</span>
@@ -62,7 +62,7 @@ redirect_from:
   <li class="update-item">
     <span class="update-date">Dec 2023</span>
     <span class="update-dot"></span>
-    <span class="update-text">Paper accepted at <strong>NeurIPS 2023</strong> — <em>False Discovery Proportion control for aggregated Knockoffs</em>.</span>
+    <span class="update-text"><em>False Discovery Proportion control for aggregated Knockoffs</em> accepted at <strong>NeurIPS 2023</strong>.</span>
   </li>
 </ul>
 
@@ -101,7 +101,7 @@ redirect_from:
     <span class="venue-badge venue-neurips">NeurIPS 2023</span>
   </div>
   <div class="pub-authors">A. Blain, B. Thirion, O. Grisel, P. Neuvial</div>
-  <div class="pub-desc">Model-agnostic variable selection with False Discoveries control and derandomization.</div>
+  <div class="pub-desc">Controls the actual proportion of false discoveries (FDP) — beyond the usual FDR guarantee — for Knockoff-based variable selection in high dimension, with a new aggregation scheme that removes the randomness of classical Knockoff inference. Demonstrated on brain imaging and genomic data.</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2310.10373">arXiv</a> &middot;
     <a href="https://github.com/alexblnn/KOPI">Code</a>
