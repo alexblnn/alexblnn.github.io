@@ -47,7 +47,7 @@ redirect_from:
   <li class="update-item">
     <span class="update-date">Jan 2025</span>
     <span class="update-dot"></span>
-    <span class="update-text">Excited to join <strong>SurgeCare</strong> as Research Scientist. I will be working on foundation models for single-cell cytometry data!</span>
+    <span class="update-text">Joined <strong>SurgeCare</strong> as Research Scientist. I will be working on foundation models for single-cell cytometry data!</span>
   </li>
   <li class="update-item">
     <span class="update-date">Dec 2024</span>
