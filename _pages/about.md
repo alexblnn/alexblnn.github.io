@@ -1,56 +1,121 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "Web page -"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a third year PhD student at [Inria Parietal](https://team.inria.fr/parietal/) and [Institut de Mathématiques de Toulouse (CNRS)](https://www.math.univ-toulouse.fr/?lang=en). I work under the supervision of [Bertrand Thirion](https://pages.saclay.inria.fr/bertrand.thirion/) and [Pierre Neuvial](https://www.math.univ-toulouse.fr/~pneuvial/) on statistics and machine learning for brain imaging (functional MRI).
+<div class="intro-block">
+  <p>
+    I am a Research Scientist at <a href="https://www.surgecare.ai">SurgeCare</a>, a spinoff from
+    <a href="https://med.stanford.edu/gaudilliere-lab.html">Brice Gaudillière's lab</a> at Stanford University.
+    I build <strong>ImmuneMind</strong> — a foundation model for cytometry data trained on 1 billion single cells —
+    and develop interpretability methods for biomarker discovery.
+  </p>
+  <p>
+    I hold a PhD in Interpretable Machine Learning and Statistics from
+    <a href="https://team.inria.fr/parietal/">INRIA Parietal</a>, advised by
+    <a href="https://pages.saclay.inria.fr/bertrand.thirion/">Bertrand Thirion</a> and
+    <a href="https://www.math.univ-toulouse.fr/~pneuvial/">Pierre Neuvial</a>.
+    My research focuses on distribution-free, model-agnostic methods for interpretability and
+    uncertainty quantification.
+  </p>
+</div>
 
-I previously studied Statistics and Machine Learning at [ENSAE Paris](https://www.ensae.fr/en) and at [Master MVA](https://www.master-mva.com/) (Mathematics, Vision and Learning) hosted by [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en).
+---
 
-# Papers
+## Updates
 
-**Notip: Non-parametric True Discovery Proportion control for brain imaging**, A. Blain, B. Thirion, P. Neuvial. **NeuroImage**, 119492. [Full text](https://doi.org/10.1016/j.neuroimage.2022.119492)
+<ul class="update-list">
+  <li class="update-item">
+    <span class="update-date">May 2025</span>
+    <span class="update-dot"></span>
+    <span class="update-text">Paper accepted at <strong>ICML 2025</strong> — <em>False Coverage Proportion control for Conformal Prediction</em>.</span>
+  </li>
+  <li class="update-item">
+    <span class="update-date">Jan 2025</span>
+    <span class="update-dot"></span>
+    <span class="update-text">Joined <strong>SurgeCare</strong> as Research Scientist. Building foundation models for single-cell cytometry data.</span>
+  </li>
+  <li class="update-item">
+    <span class="update-date">Dec 2024</span>
+    <span class="update-dot"></span>
+    <span class="update-text">Successfully defended my PhD in Interpretable Machine Learning and Statistics at INRIA.</span>
+  </li>
+  <li class="update-item">
+    <span class="update-date">Dec 2023</span>
+    <span class="update-dot"></span>
+    <span class="update-text">Presented <em>False Discovery Proportion control for aggregated Knockoffs</em> at <strong>NeurIPS 2023</strong>, New Orleans.</span>
+  </li>
+</ul>
 
-**False Discovery Proportion control for aggregated Knockoffs**, A. Blain, B. Thirion, O.Grisel, P. Neuvial. **NeurIPS 2023**. [Full text](https://arxiv.org/abs/2310.10373)
+---
 
+## Publications
 
-# Software
+<div class="pub-entry">
+  <div class="pub-title">
+    False Coverage Proportion control for Conformal Prediction
+    <span class="venue-badge venue-icml">ICML 2025</span>
+  </div>
+  <div class="pub-authors">A. Blain, B. Thirion, P. Neuvial</div>
+  <div class="pub-desc">Distribution-free uncertainty quantification with improved statistical guarantees, applicable to any black-box model including neural networks.</div>
+</div>
 
-**sanssouci.python package**, L. Risser, P. Neuvial, A. Blain, B. Thirion, [repo](https://github.com/pneuvial/sanssouci.python)
+<div class="pub-entry">
+  <div class="pub-title">
+    False Discovery Proportion control for aggregated Knockoffs
+    <span class="venue-badge venue-neurips">NeurIPS 2023</span>
+  </div>
+  <div class="pub-authors">A. Blain, B. Thirion, O. Grisel, P. Neuvial</div>
+  <div class="pub-desc">Model-agnostic variable selection with False Discoveries control and derandomization.</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2310.10373">arXiv</a> &middot;
+    <a href="https://github.com/alexblnn/KOPI">Code</a>
+  </div>
+</div>
 
-**Notip**, A. Blain, B. Thirion, P. Neuvial, [repo](https://github.com/alexblnn/Notip)
+<div class="pub-entry">
+  <div class="pub-title">
+    Notip: Non-parametric True Discovery Proportion control for brain imaging
+    <span class="venue-badge venue-journal">NeuroImage</span>
+  </div>
+  <div class="pub-authors">A. Blain, B. Thirion, P. Neuvial</div>
+  <div class="pub-desc">Distribution-free method for detecting statistically significant activations in high-dimensional data, with applications to fMRI. Oral at OHBM 2022 and MCP 2022.</div>
+  <div class="pub-links">
+    <a href="https://doi.org/10.1016/j.neuroimage.2022.119492">Full text</a> &middot;
+    <a href="https://github.com/alexblnn/Notip">Code</a>
+  </div>
+</div>
 
-**KOPI**, A. Blain, B. Thirion, P. Neuvial, [repo](https://github.com/alexblnn/KOPI)
+---
 
-# Talks
+## Software
 
-**False Discovery Proportion control for aggregated Knockoffs**, November 2023, [Inria Parietal](https://team.inria.fr/parietal/) team meeting, Paris
+<div class="software-grid">
+  <a class="software-item" href="https://github.com/alexblnn/Notip">
+    <div class="software-name">Notip</div>
+    <div class="software-desc">Non-parametric True Discovery Proportion control for brain imaging.</div>
+  </a>
+  <a class="software-item" href="https://github.com/alexblnn/KOPI">
+    <div class="software-name">KOPI</div>
+    <div class="software-desc">Knockoffs with FDP control and derandomization.</div>
+  </a>
+  <a class="software-item" href="https://github.com/pneuvial/sanssouci.python">
+    <div class="software-name">sanssouci.python</div>
+    <div class="software-desc">Python implementation of the SansSouci post-hoc inference framework.</div>
+  </a>
+</div>
 
-**False Discovery Proportion control for aggregated Knockoffs**, September 2023, [ANR Fast-Big workshop](https://project.inria.fr/fastbig/stats-workshop-october-19th-2023/) @ [Institut Henri Poincaré](http://www.ihp.fr/en), Paris
+---
 
-**Notip: Non-parametric True Discovery Proportion control for brain imaging**, December 2022, [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/)
+## Selected Talks
 
-**Notip: Non-parametric True Discovery Proportion control for brain imaging**, September 2022, [ANR Fast-Big workshop](https://anr.fr/Project-ANR-17-CE23-0011), Paris
-
-**Notip: Non-parametric True Discovery Proportion control for brain imaging**, August 2022, [MCP conference](https://www.mcp-conference.org/), Bremen, Germany
-
-**Notip: Non-parametric True Discovery Proportion control for brain imaging**, June 2022, [Inria Parietal](https://team.inria.fr/parietal/) team meeting, Paris
-
-**Adaptive post-hoc bounds for fMRI inference**, March 2022, [ANR SansSouci workshop](https://anr.fr/Projet-ANR-16-CE40-0019), [Institut de Mathématiques de Toulouse (CNRS)](https://www.math.univ-toulouse.fr/?lang=en).
-
-**Post hoc approach for multiple testing in brain imaging**, February 2022, [Institut Henri Poincaré](http://www.ihp.fr/en), Paris.
-
-# Education
-
-* PhD in Maths/Computer Science, Inria Parietal, Université Paris-Saclay, Paris, France, 2021 - 2024
-
-* Research Master 2 MVA "Mathematics, Vision and Learning", Ecole Normale Supérieure Paris-Saclay, Paris, France, 2020-2021.
-
-* Engineer, Statistician and Economist diploma, ENSAE Paris, Data Science Statistics and ML track, Paris, France, 2018-2021.
-
-* Classe Préparatoire aux Grandes Écoles, Maths and Physics, Lycée Bellevue, Toulouse, France, 2015-2018.
+- **False Discovery Proportion control for aggregated Knockoffs**, November 2023, [INRIA Parietal](https://team.inria.fr/parietal/) team meeting, Paris
+- **False Discovery Proportion control for aggregated Knockoffs**, September 2023, [ANR Fast-Big workshop](https://project.inria.fr/fastbig/stats-workshop-october-19th-2023/) @ [Institut Henri Poincaré](http://www.ihp.fr/en), Paris
+- **Notip**, December 2022, [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/) *(organized by E. Candès' group, Stanford)*
+- **Notip**, August 2022, [MCP Conference](https://www.mcp-conference.org/), Bremen, Germany *(oral)*
+- **Notip**, June 2022, [OHBM 2022](https://www.humanbrainmapping.org/) *(oral)*

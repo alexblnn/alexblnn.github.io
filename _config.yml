@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alexandre Blain"
   avatar           : "IMG_8747.jpeg"
-  bio              : "PhD candidate at INRIA Parietal / Institut de Mathématiques de Toulouse"
-  location         : "Paris - France"
+  bio              : "Research Scientist at SurgeCare · PhD in Interpretable ML & Statistics"
+  location         : "San Francisco Bay Area"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "alexandre.blain@inria.fr"
+  email            : "blain.alexandre1@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "alexblnn"
   google_plus      :
   keybase          :
   instagram        :

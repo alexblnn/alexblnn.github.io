@@ -1,0 +1,177 @@
+/* ==========================================================================
+   Custom styles — Alexandre Blain
+   ========================================================================== */
+
+/* Intro block */
+.intro-block {
+  font-size: 1.05em;
+  line-height: 1.75;
+  margin-bottom: 0.5em;
+
+  p { margin-bottom: 0.85em; }
+}
+
+/* Section headings with left accent bar */
+.page__content h2 {
+  font-size: 1.15em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #1e293b;
+  border-left: 3px solid #2563eb;
+  padding-left: 0.65em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+/* Horizontal rule styling */
+.page__content hr {
+  border: none;
+  border-top: 1px solid #e2e8f0;
+  margin: 1.6em 0 0.4em;
+}
+
+/* ---- Updates timeline ---- */
+.update-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 0.5em 0;
+}
+
+.update-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75em;
+  padding: 0.55em 0;
+  border-bottom: 1px solid #f1f5f9;
+
+  &:last-child { border-bottom: none; }
+}
+
+.update-date {
+  flex-shrink: 0;
+  min-width: 72px;
+  font-size: 0.72em;
+  font-weight: 600;
+  color: #64748b;
+  letter-spacing: 0.03em;
+  padding-top: 3px;
+  font-family: Monaco, Consolas, "Lucida Console", monospace;
+}
+
+.update-dot {
+  flex-shrink: 0;
+  width: 7px;
+  height: 7px;
+  background: #2563eb;
+  border-radius: 50%;
+  margin-top: 6px;
+}
+
+.update-text {
+  font-size: 0.92em;
+  color: #334155;
+  line-height: 1.5;
+}
+
+/* ---- Publication entries ---- */
+.pub-entry {
+  margin-bottom: 1em;
+  padding: 0.85em 1.1em;
+  border-left: 3px solid #e2e8f0;
+  border-radius: 0 6px 6px 0;
+  background: #f8fafc;
+  transition: border-left-color 0.15s ease, background 0.15s ease;
+
+  &:hover {
+    border-left-color: #2563eb;
+    background: #eff6ff;
+  }
+}
+
+.pub-title {
+  font-weight: 700;
+  font-size: 0.97em;
+  color: #1e293b;
+  margin-bottom: 0.2em;
+}
+
+.pub-authors {
+  font-size: 0.82em;
+  color: #64748b;
+  margin-bottom: 0.35em;
+}
+
+.pub-desc {
+  font-size: 0.88em;
+  color: #475569;
+  line-height: 1.55;
+  margin-bottom: 0.4em;
+}
+
+.pub-links {
+  font-size: 0.82em;
+
+  a {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 500;
+
+    &:hover { text-decoration: underline; }
+  }
+}
+
+/* Venue badges */
+.venue-badge {
+  display: inline-block;
+  font-size: 0.65em;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 4px;
+  color: #fff;
+  vertical-align: middle;
+  margin-left: 7px;
+  line-height: 1.6;
+}
+
+.venue-icml    { background: #059669; }
+.venue-neurips { background: #7c3aed; }
+.venue-journal { background: #b45309; }
+
+/* ---- Software grid ---- */
+.software-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.75em;
+  margin-bottom: 0.5em;
+}
+
+.software-item {
+  display: block;
+  padding: 0.85em 1em;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  background: #fff;
+  text-decoration: none !important;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+
+  &:hover {
+    border-color: #2563eb;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.1);
+  }
+}
+
+.software-name {
+  font-weight: 700;
+  font-size: 0.92em;
+  color: #1e293b;
+  margin-bottom: 0.3em;
+}
+
+.software-desc {
+  font-size: 0.8em;
+  color: #64748b;
+  line-height: 1.45;
+}
