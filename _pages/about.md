@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="intro-block">
   <p>
-    I am a Research Scientist at <a href="https://www.surge.care">SurgeCare</a>, a spinoff from
+    I am Head of AI Research at <a href="https://www.surge.care">SurgeCare</a>, a spinoff from
     <a href="https://gaudillierelab.stanford.edu">Brice Gaudillière's lab</a> at Stanford University.
     I'm working on building <strong>ImmuneMind</strong>, a foundation model trained on billions of single cells,
     and developing interpretability methods for biomarker discovery.
@@ -34,6 +34,21 @@ redirect_from:
 ## Updates
 
 <ul class="update-list">
+  <li class="update-item">
+    <span class="update-date">Jul 2026</span>
+    <span class="update-dot"></span>
+    <span class="update-text"><strong>ImmuneMind</strong> accepted at the <a href="https://natureconferences.streamgo.live/healthcare-ai/agenda">Nature AI for Healthcare conference</a>!</span>
+  </li>
+  <li class="update-item">
+    <span class="update-date">Jun 2026</span>
+    <span class="update-dot"></span>
+    <span class="update-text">Named <strong>Head of AI Research</strong> at SurgeCare.</span>
+  </li>
+  <li class="update-item">
+    <span class="update-date">Apr 2026</span>
+    <span class="update-dot"></span>
+    <span class="update-text">Participating with SurgeCare in the <a href="https://oecd.ai/en/transparency/overview">OECD</a> and <a href="https://www.entreprises.gouv.fr/la-dge/actualites/le-g7-sengage-pour-un-numerique-responsable-quatre-priorites-adoptees-sous">G7</a> AI safety process (Hiroshima AI Process).</span>
+  </li>
   <li class="update-item">
     <span class="update-date">Feb 2026</span>
     <span class="update-dot"></span>
