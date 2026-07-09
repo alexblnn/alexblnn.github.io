@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="intro-block">
   <p>
-    I am Head of AI Research at <a href="https://www.surge.care">SurgeCare</a>, a spinoff from
+    I lead AI Research at <a href="https://www.surge.care">SurgeCare</a>, a spinoff from
     <a href="https://gaudillierelab.stanford.edu">Brice Gaudillière's lab</a> at Stanford University.
     I'm working on building <strong>ImmuneMind</strong>, a foundation model trained on billions of single cells,
     and developing interpretability methods for biomarker discovery.
@@ -55,14 +55,14 @@ redirect_from:
     <span class="update-text"><a href="https://www.entreprises.gouv.fr/la-dge/actualites/appel-projets-pionniers-de-lia-les-23-premiers-laureats-connus">ImmuneMind awarded the AI Trailblazer Grant</a> as part of the France 2030 plan!</span>
   </li>
   <li class="update-item">
+    <span class="update-date">Jun 2025</span>
+    <span class="update-dot"></span>
+    <span class="update-text">Joined <strong>SurgeCare</strong> as Research Scientist. I will be working on foundation models for single-cell cytometry data!</span>
+  </li>
+  <li class="update-item">
     <span class="update-date">May 2025</span>
     <span class="update-dot"></span>
     <span class="update-text"><em>False Coverage Proportion control for Conformal Prediction</em> accepted at <strong>ICML 2025</strong>.</span>
-  </li>
-  <li class="update-item">
-    <span class="update-date">Jan 2025</span>
-    <span class="update-dot"></span>
-    <span class="update-text">Joined <strong>SurgeCare</strong> as Research Scientist. I will be working on foundation models for single-cell cytometry data!</span>
   </li>
   <li class="update-item">
     <span class="update-date">Dec 2024</span>
